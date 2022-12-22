@@ -1,5 +1,6 @@
 package leetcode;
 
+import leetcode.binarysearch.IntersectionOfTwoArrays;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.binarysearch;
 /*
 Задача из раздела с теорией:
 https://leetcode.com/explore/learn/card/binary-search/144/more-practices/1034/

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.binarysearch;
 /*
   35. Search Insert Position
   https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=binary-search-i

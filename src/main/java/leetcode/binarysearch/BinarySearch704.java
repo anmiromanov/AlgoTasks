@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.binarysearch;
 /*
         704. Binary Search
         https://leetcode.com/problems/binary-search/?envType=study-plan&id=binary-search-i

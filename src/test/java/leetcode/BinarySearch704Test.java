@@ -1,5 +1,6 @@
 package leetcode;
 
+import leetcode.binarysearch.BinarySearch704;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

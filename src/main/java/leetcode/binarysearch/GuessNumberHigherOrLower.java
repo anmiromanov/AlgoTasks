@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.binarysearch;
 
 /*
 374. Guess Number Higher or Lower
