@@ -1,4 +1,4 @@
-package leetcode.twopointrs;
+package leetcode.different;
 /*
 160. Intersection of Two Linked Lists
 https://leetcode.com/problems/intersection-of-two-linked-lists/
